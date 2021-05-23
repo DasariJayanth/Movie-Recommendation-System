@@ -1,3 +1,5 @@
+#Implementation
+
 1) This application provides all the details of the requested movie such as overview, genre, release date, rating, runtime, top cast,recommended movies etc.
 
 2) The details of the movies(title, genre, runtime, rating, poster, etc) are fetched using an API by TMDB, and using the IMDB id of the movie in the API.
