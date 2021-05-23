@@ -5,4 +5,5 @@ This is a Software Engineering Project about Movie Recommendation System. This P
 2) SRS.(Software Requirement Specifications)
 3) Project Estimation Report.
 4) Design Document.
-And source code files along with requirements and a file containing screenshots of executable code.
+5) Source code files.
+The readme file in mov_eng contains details about how to implement this project.(Application)
